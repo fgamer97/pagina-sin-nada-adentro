@@ -1,0 +1,5 @@
+	<?php
+
+inclued("mostrar.php");
+
+	?>
